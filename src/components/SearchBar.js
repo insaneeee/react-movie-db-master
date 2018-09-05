@@ -41,7 +41,7 @@ class SearchBar extends Component {
           label="Add a new movie"
           margin="normal"
           value={searchTerm}
-          fullWidth
+          className ="search-input"
           onChange={this.onInputChange}
         />
         <IconButton onClick={this.search}>

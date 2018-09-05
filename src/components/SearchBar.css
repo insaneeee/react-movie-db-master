@@ -1,5 +1,9 @@
 .search-results {
-  width: 25%;
+  width: 80%;
+}
+
+.search-input {
+  width: 80%;
 }
 
 .search-container {
@@ -9,7 +13,6 @@
 
 .search-bar {
   width: 50%;
-  display: flex;
   justify-content: center;
   align-items: baseline;
 }
