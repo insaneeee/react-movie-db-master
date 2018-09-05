@@ -1,0 +1,15 @@
+.search-results {
+  width: 25%;
+}
+
+.search-container {
+  display: flex;
+  justify-content: center;
+}
+
+.search-bar {
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
